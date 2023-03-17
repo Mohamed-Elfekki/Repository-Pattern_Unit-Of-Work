@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\bin\Debug\net6.0\RB_UOW_EF.deps.json
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\bin\Debug\net6.0\RB_UOW_EF.runtimeconfig.json
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\bin\Debug\net6.0\RB_UOW_EF.dll
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\bin\Debug\net6.0\RB_UOW_EF.pdb
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.AssemblyInfo.cs
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.dll
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\refint\RB_UOW_EF.dll
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.pdb
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.genruntimeconfig.cache
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\ref\RB_UOW_EF.dll
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\bin\Debug\net6.0\RB_UOW_Core.dll
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\bin\Debug\net6.0\RB_UOW_Core.pdb
+D:\VisualStudioProjects\RB_UOW_API\RB_UOW_EF\obj\Debug\net6.0\RB_UOW_EF.csproj.CopyComplete
